@@ -85,6 +85,7 @@ present the datapath followed for each instruction.
 
 
 Implementation
+
 In this phase, you need to simulate the designed processor. You are required to implement 
 the given instructions only. 
 To implement the desired processor, you must first implement its components depending on 
